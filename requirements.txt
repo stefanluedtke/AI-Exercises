@@ -4,3 +4,4 @@ scipy
 pandas
 sklearn
 scikit-learn
+tensorflow
